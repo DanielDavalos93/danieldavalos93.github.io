@@ -11,35 +11,45 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Computer Science, Universidad de Buenos Aires, Argentina, 2027 (expected)
+* B.S. in Pure Mathematics, Universidad Nacional de Asunción Paraguay, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2025 - 2026: Teaching Assistant 
+  * FCEyN, Universidad de Buenos Aires
+  * Course: Computational Complexity
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021, 2024: Distance EDistance Education Instructor
+  * FACEN, Universidad Nacional de Asunción
+  * Courses: 
+    * Mathematical Logic
+    * Several Variables Calculus
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* 2020 -- 2022: Instructor
+  * FACEN, Universidad Nacional de Asunción
+  * Courses:
+    * Real Analysis II
+    * General Topology I
+
+* 2019: Teaching Assistant
+  * Politécnica, Universidad Nacional de Asunción
+  * Course:
+    * Numeric Methods
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Concurrency theory
+* Reversible computation
+* Programming languages:
+  * Haskell
+  * Lean Prover
+  * Prolog
+  * Python
+
+Hobby
+======
+* [Chess player](https://ratings.fide.com/profile/3715922)
 
 Publications
 ======
@@ -59,6 +69,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<!-- Service and leadership -->
+<!-- ====== -->
+<!-- * Currently signed in to 43 different slack teams -->
