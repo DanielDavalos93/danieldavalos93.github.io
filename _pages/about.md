@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,4 +11,3 @@ Mathematician at the *Universidad Nacional de Asunción* and doctoral student in
 I'm interested in: concurrency theory, reversible computation, proof assistant (Lean Prover), quantum computing.
 
 > *A mathematician is a machine that turns tereré into theorems*
-<p align="left">Quote that Ërdos never said</p>
