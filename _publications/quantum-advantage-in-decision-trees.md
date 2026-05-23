@@ -1,13 +1,28 @@
 ---
 title: "Quantum Advantage in Decision Trees: A Weighted Graph and $$L_1$$ Norm Approach"
+author:
+- name: Sebastian Alberto Grillo
+  affiliation: Facultad de Ciencia y Tecnología, Universidad Autónoma de Asunción, Paraguay
+- name: Bernardo Daniel Dávalos
+  affiliation: Facultad de Ciencia y Tecnología, Universidad Autónoma de Asunción, Paraguay
+- name: Rodney Fabián Franco Torres
+  affiliation: Facultad Politécnica, Universidad Nacional de Asunción, Paraguay
+- name: Édgar López Pezo
+  affiliation: Facultad de Ciencias Exactas y Naturales, Universidad Nacional de Asunción, Paraguay
+- name: Franklin de Lima Marquezino
+  affiliation: PESC-COPPE, Universidade Federal do Rio de Janeiro, Brazil
 collection: publications
 category: manuscripts
 permalink: /publication/quantum-advantage-in-decision-trees
-excerpt: 'This is a draft of the paper'
+excerpt: 'This is a draft of the paper.'
 date: 2026-03-04
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2602.04700'
 bibtexurl: 'https://arxiv.org/abs/2602.04700'
+keywords:
+- Quantum advantage
+- Spectral norm
+- Quantum decision trees
 ---
 
 Abstract
