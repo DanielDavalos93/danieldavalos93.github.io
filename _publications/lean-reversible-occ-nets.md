@@ -3,12 +3,12 @@ title: "A Lean Mechanization of Reversible Occurrence Nets"
 collection: publications
 category: conferences
 permalink: /publication/lean-reversible-occ-nets
-excerpt: 'A fully mechanization on concurrent and reversible occurrence nets in the __Lean Prover__ proof assistant.'
-date: July 9-10, 2026, Torino, Italy
+excerpt: 'Accepted paper at the **Reversible Computation Conference**.'
+date: 2026-05-23
 venue: 'Reversible Computation 2026'
 paperurl: 'https://reversible-computation.github.io/accepted/'
 <!-- citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).' -->
-keywords: reversibility, concurrency, proof assistant
+keywords: 'reversibility', 'concurrency', 'proof assistant'
 ---
 
 Abstract
