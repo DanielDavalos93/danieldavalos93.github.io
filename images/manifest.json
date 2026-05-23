@@ -15,7 +15,7 @@ permalink: /images/manifest.json
 			"type": "image/png"
 		},
 		{
-			"src": "/images/favicon-512x512.png",
+			"src": "/images/terere-lamb-512x512.png",
 			"sizes": "512x512",
 			"type": "image/png"
 		}
