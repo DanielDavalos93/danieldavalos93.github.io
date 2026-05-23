@@ -10,4 +10,8 @@ redirect_from:
 Mathematician at the *Universidad Nacional de Asunción* and doctoral student in Computer Science at the *Universidad de Buenos Aires*. 
 I'm interested in: concurrency theory, reversible computation, proof assistant (Lean Prover), quantum computing.
 
+Currently working on the following projects:
+- Implementing algorithms that transform a reversible Petri net into a CCSK in OCaml.
+- Continuing the Lean project by introducing reversible probability to the markings.
+
 > *A mathematician is a machine that turns tereré into theorems*

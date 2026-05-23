@@ -32,11 +32,11 @@ Since march until july, and 2 hs of theory and 3 hs of practical exercises, the 
   - Logarithmic space: **L** and **NL**
   - Immerman-Szelepcsényi theorem
 - Polynomial hierarchy
-  - $\Sigma_i^p$-**complete** problems
+  - $$\Sigma_i^p$$-**complete** problems
   - Oracle machines
   - Bacher-Gill-Solovay theorem
 - Boolean circuits
-  - The **P**$_{/poly}$ class
+  - The **P**$$_{/poly}$$ class
   - Karp-Lipton theorem
   - **NC** and **AC** classes
   - **P**-completeness
