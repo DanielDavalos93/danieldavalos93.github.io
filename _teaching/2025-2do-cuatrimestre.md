@@ -1,12 +1,12 @@
 ---
-title: "Computational Complexity"
+title: "Computational Complexity, 2nd cuatrimestre 2026"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-2-cuatrimestre
 venue: "Universidad de Buenos Aires, FCEyN, Departmento de Computación"
 date: 2025-08-01
 location: "Buenos Aires, Argentina"
-tags: "Ayudante de Primera"
+tags: Ayudante_de_Primera Complejidad_Computacional
 ---
 
 Since march until july, and 2 hs of theory and 3 hs of practical exercises, the topics were:

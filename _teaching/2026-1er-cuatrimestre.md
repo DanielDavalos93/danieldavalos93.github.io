@@ -1,12 +1,12 @@
 ---
-title: "Computational Complexity"
+title: "Computational Complexity, 1st cuatrimestre 2026"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-2-cuatrimestre
 venue: "Universidad de Buenos Aires, FCEyN, Departmento de Computación"
 date: 2026-03-01
 location: "Buenos Aires, Argentina"
-tags: "Ayudante de Primera"
+tags: Ayudante_de_Primera Complejidad_Computacional
 ---
 
 **Indefinite teachers' strike** due to low salaries at public universities in Argentina relative to inflation in recent years. 
