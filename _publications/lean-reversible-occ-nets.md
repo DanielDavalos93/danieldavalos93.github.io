@@ -1,0 +1,23 @@
+---
+title: "A Lean Mechanization of Reversible Occurrence Nets"
+collection: publications
+category: conferences
+permalink: /publication/lean-reversible-occ-nets
+excerpt: 'A fully mechanization on concurrent and reversible occurrence nets in the __Lean Prover__ proof assistant.'
+date: July 9-10, 2026, Torino, Italy
+venue: 'Reversible Computation 2026'
+paperurl: 'https://reversible-computation.github.io/accepted/'
+<!-- citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).' -->
+keywords: reversibility, concurrency, proof assistant
+---
+
+Abstract
+------
+
+Petri nets constitute a foundational model of concurrency,
+which makes their reversible counterparts particularly relevant. Reversible
+Petri nets have been used to investigate the relationships between different models of concurrency, such as process calculi and event structures.
+
+In this paper, we address the problem of mechanizing the theory of reversible Petri nets with causally consistent reversibility. Specifically, we
+present a full mechanization of reversible Occurrence Petri nets in the
+Lean proof assistant. We formally verify that this model satisfies causal-dependent reversibility by mechanizing the so-called parabolic lemma.
