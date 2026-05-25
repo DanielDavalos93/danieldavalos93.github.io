@@ -16,11 +16,15 @@ Education
 
 Work experience
 ======
-* 2025 - 2026: Teaching Assistant 
+* 2025 -- 2026: Teaching Assistant 
   * FCEyN, Universidad de Buenos Aires
   * Course: Computational Complexity
 
-* 2021, 2024: Distance EDistance Education Instructor
+* 2024 -- 2025: Reseach Assistant
+  * Universidad Autónoma de Asunción
+  * Title: Quantum algorithms using graphs
+
+* 2021, 2024: Distance Education Instructor
   * FACEN, Universidad Nacional de Asunción
   * Courses: 
     * Mathematical Logic
@@ -37,13 +41,23 @@ Work experience
   * Course:
     * Numeric Methods
 
+* 2016 -- 2018: Unvergraduate Teaching Assistant
+  * FACEN, Universidad Nacional de Asunción
+  * Courses:
+    * Geometry and Trigonometry
+    * [Abstract] Algebra II and III
+    * Mathematical Analysis II
+    * Logic and Graph Theory
+
 Skills
 ======
 * Concurrency theory
 * Reversible computation
+* Quantum computing
 * Programming languages:
   * Haskell
   * Lean Prover
+  * Ocaml
   * Prolog
   * Python
 
