@@ -11,3 +11,4 @@ slidesurl: 'https://danieldavalos93.github.io/files/LoReL.pdf'
 
 It was a session of [talks](https://lorel-team.github.io/jornada.html) in which the members of the [LoReL](https://lorel-team.github.io/) group presented their respective research topics.
 
+[Slide](https://danieldavalos93.github.io/files/LoReL.pdf)
