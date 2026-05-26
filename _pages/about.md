@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Mathematician at the *Universidad Nacional de Asunción* and doctoral student in Computer Science at the *Universidad de Buenos Aires*. 
+Mathematician at the *Universidad Nacional de Asunción* and doctoral student in Computer Science at the *Universidad de Buenos Aires*.
+My supervisor is Hernán Melgratti.
 I'm interested in: concurrency theory, reversible computation, proof assistant (Lean Prover), quantum computing.
 
 Currently working on the following projects:
@@ -15,5 +16,10 @@ Currently working on the following projects:
   Stay: May -- June 2026
   Topic: Implementing algorithms that transform a reversible Petri net into a CCSK in OCaml.
 - Continuing the Lean project by introducing reversible probability to the markings.
+
+Contact
+------
+
+email: `davalos@uba.ar`
 
 > *A mathematician is a machine that turns tereré into theorems*
