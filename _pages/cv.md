@@ -12,7 +12,8 @@ redirect_from:
 Education
 ======
 * PhD in Computer Science, Universidad de Buenos Aires, Argentina, 2027 (expected)
-* B.S. in Pure Mathematics, Universidad Nacional de Asunción Paraguay, 2017
+* Specialization in Didactic Teaching, Universidad Nacional de Asunción, Paraguay, 2019
+* B.S. in Pure Mathematics, Universidad Nacional de Asunción, Paraguay, 2018
 
 Work experience
 ======
