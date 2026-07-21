@@ -11,7 +11,7 @@ permalink: /publication/lean-reversible-occ-nets
 excerpt: 'Accepted paper :tada: at the **Reversible Computation Conference** (July 9--10, 2026) in Torino, Italy.'
 date: 2026-05-23
 venue: 'Reversible Computation (Springer)'
-paperurl: 'https://reversible-computation.github.io/accepted/'
+paperurl: 'https://link.springer.com/book/10.1007/978-3-032-30839-9'
 keywords:
 - Reversibility
 - Concurrency
@@ -25,3 +25,5 @@ Petri nets constitute a foundational model of concurrency, which makes their rev
 
 In this paper, we address the problem of mechanizing the theory of reversible Petri nets with causally consistent reversibility. 
 Specifically, we present a full mechanization of reversible Occurrence Petri nets in the Lean proof assistant. We formally verify that this model satisfies causal-dependent reversibility by mechanizing the so-called parabolic lemma.
+
+**Conference:** https://reversible-computation.github.io/

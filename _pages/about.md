@@ -13,9 +13,10 @@ PhD student in Computer Science at the *Universidad de Buenos Aires*.
 
 I'm interested in: concurrency theory, reversible computation, proof assistant (Lean Prover), quantum computing.
 
-Member of the research groups: 
+Member of the following research groups: 
 - [LoReL](https://lorel-team.github.io/)
 - [FunLeP](https://sites.google.com/view/funlep/home?authuser=0)
+ - [Seminarios FormAL](https://seminarios-formal.github.io/seminarios/)
 - [QuICC](https://quicc.dc.uba.ar/)
 
 Currently working on the following projects:
