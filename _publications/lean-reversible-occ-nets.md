@@ -27,3 +27,20 @@ In this paper, we address the problem of mechanizing the theory of reversible Pe
 Specifically, we present a full mechanization of reversible Occurrence Petri nets in the Lean proof assistant. We formally verify that this model satisfies causal-dependent reversibility by mechanizing the so-called parabolic lemma.
 
 **Conference:** https://reversible-computation.github.io/
+
+Citation
+------
+
+```latex
+@InProceedings{DavMel26,
+    author="D{'a}valos, Daniel and Melgratti, Hern{'a}n", 
+    editor="Aubert, Cl{'e}ment and Roversi, Luca", 
+    title="A Lean Mechanization of Reversible Occurrence Nets", 
+    booktitle="Reversible Computation", 
+    year="2026", 
+    publisher="Springer Nature Switzerland", 
+    address="Cham", 
+    pages="95--111",
+    isbn="978-3-032-30839-9" 
+    }
+```
