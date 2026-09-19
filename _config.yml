@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "perfil.png"
   name             : "Daniel Dávalos"
-  pronouns         : #"he/him"  
+  pronouns         : "he/him"  
   bio              : "Doctoral student in Computer Science"
   location         : "Buenos Aires, Argentina"
   employer         : "Universidad de Buenos Aires"
@@ -39,7 +39,7 @@ author:
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0006-5455-1969"
-  semantic         : # URL
+  semantic         : "https://www.semanticscholar.org/author/Daniel-D%C3%A1valos/2456464013"
   ssrn             : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Daniel-Davalos-6"
@@ -99,7 +99,7 @@ future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : custom # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            :
   discourse:
