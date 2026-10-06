@@ -1,0 +1,29 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Tamaño general del texto */
+body {
+  font-size: 15px;
+}
+
+/* Texto principal del contenido */
+.page__content {
+  font-size: 15px;
+}
+
+/* Párrafos */
+.page__content p {
+  font-size: 15px;
+}
+
+/* Listas */
+.page__content li {
+  font-size: 15px;
+}
+
+/* Texto de la barra lateral */
+.sidebar {
+  font-size: 14px;
+}
